@@ -1,0 +1,10 @@
+# a=input("Enter Your Name:")
+# print(a)
+x=input("Enter First Number:")
+y=input("Enter Second Number:")
+
+print("Concatation",x+y)
+print("Addition",int(x)+int(y))
+print("Subtraction",int(x)-int(y))
+print("Multipication",int(x)*int(y))
+print("Division",int(x)/int(y))

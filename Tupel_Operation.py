@@ -1,0 +1,13 @@
+# tup=(0,1,2,3,4,5,23,3,3,6,7)
+# print(tup)
+# rk=len(tup)
+# print(rk)
+# rk=tup.count(3)
+# print(rk)
+# print(tup.count(3))
+
+tuple=(0,1,2,3,4,5,6,7,8,9)
+# res=tuple.count(3)
+# res=tuple.index(3)
+res=tuple.index(5)
+print(res)  
